@@ -1,3 +1,5 @@
+Example of how to marshal something in ruby
+
 class TestA
   attr_accessor :name
 end

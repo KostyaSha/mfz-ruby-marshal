@@ -57,7 +57,7 @@
         <main.java.package>com.mfizz.ruby.marshal</main.java.package>
         <junit.version>4.10</junit.version>
         <powermock.version>1.4.12</powermock.version>
-        <license.skip>true</license.skip>
+        <license.skip>false</license.skip>
     </properties>
 
 </project>
