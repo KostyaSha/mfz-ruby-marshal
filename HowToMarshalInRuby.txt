@@ -1,0 +1,8 @@
+class TestA
+  attr_accessor :name
+end
+
+e = TestA.new
+e.name = "55617890db6868a4"
+
+Marshal.dump(e).unpack('H*')
