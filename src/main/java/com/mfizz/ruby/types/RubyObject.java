@@ -19,10 +19,6 @@ import com.mfizz.ruby.core.Ruby;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- *
- * @author jlauer
- */
 public class RubyObject extends RubyType {
     
     private RubySymbol name;    // class/module name (not sure if it can be anything else and is always a symbol)

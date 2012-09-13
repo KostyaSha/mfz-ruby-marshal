@@ -41,8 +41,6 @@ import org.slf4j.LoggerFactory;
  * project. 
  * 
  * https://github.com/jruby/jruby/blob/master/src/org/jruby/runtime/marshal/UnmarshalStream.java
- * 
- * @author jlauer
  */
 public class Unmarshaller {
     private static final Logger logger = LoggerFactory.getLogger(Unmarshaller.class);
