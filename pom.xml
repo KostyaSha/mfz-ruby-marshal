@@ -4,7 +4,7 @@
     <groupId>com.mfizz</groupId>
     <artifactId>mfz-ruby-marshal</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>mfz-ruby-marshal</name>
     <description>Java library for reading and writing to/from serialized Ruby objects that use Marshal.dump and Marshal.load</description>
     <url>http://code.google.com/p/mfz-ruby-marshal/</url>
@@ -18,7 +18,8 @@
     <scm>
       <url>http://code.google.com/p/mfz-ruby-marshal/source/browse/</url>
       <connection>scm:git:https://code.google.com/p/mfz-ruby-marshal/</connection>
-    </scm>
+      <tag>version-1.0.0</tag>
+  </scm>
   
     <developers>
         <developer>
